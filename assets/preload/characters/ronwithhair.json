@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				318
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RON_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-67
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RON_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RON_UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				116
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RON_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				71
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RON_RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kill_yourself",
+	"position": [
+		60,
+		240
+	],
+	"healthicon": "RONWITHHAIR",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		235,
+		60
+	],
+	"camera_position": [
+		-160,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
