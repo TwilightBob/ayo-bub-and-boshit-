@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Copy-Cat",
+			"bob",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Jump-Out",
+			"gloopy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Ronald McDonald Slide",
+			"RONWITHHAIR",
+			[
+				246,
+				213,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "bob takover",
+	"weekName": "weektakeover",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
