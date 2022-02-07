@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bob_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bob_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				22
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bob_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bob_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bob_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "bobismad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "bobismad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "bobismad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "bobismad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "bobismad",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bob_asset",
+	"position": [
+		80,
+		310
+	],
+	"healthicon": "bobog",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-60,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
